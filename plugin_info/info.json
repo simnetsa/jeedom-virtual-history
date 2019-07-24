@@ -1,0 +1,9 @@
+{
+	"id" : "virtualhistory",
+	"name" : "Virtuel (avec historique)",
+	"description" : "Plugin pour gérer des équipements virtuels et l'historique via l'API",
+	"licence" : "AGPL",
+	"author" : "Guillaume Simon",
+	"require" : "1.0",
+	"category" : "programming"
+}

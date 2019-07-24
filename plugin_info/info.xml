@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>virtualhistory</id>
+    <name>Virtuel avec historique</name>
+    <description>Plugin pour gérer des équipements virtuels</description>
+    <licence>AGPL</licence>
+    <author>Guillaume Simon</author>
+    <require>1.0</require>
+    <category>programming</category>
+</info>
+
